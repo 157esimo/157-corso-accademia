@@ -335,7 +335,7 @@ main {
     }
     
     .vertical-image {
-        height: 350px;
+        height: 500px;
         width: auto;
         max-width: 100%;
         object-fit: contain;
